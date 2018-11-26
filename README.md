@@ -1,4 +1,3 @@
-
 # react-native-react-native-simple-linear-gradient
 
 ## Getting started
